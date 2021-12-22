@@ -1,1 +1,1 @@
-# JavaScript-DOM-Exercises
+# JavaScript-DOM
